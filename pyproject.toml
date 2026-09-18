@@ -10,7 +10,9 @@ requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
     "gradio>=6.27.0",
+    "graphviz>=0.21",
     "openai>=3.14.0",
+    "openai-agents>=0.22.2",
     "pypdf>=6.18.1",
 ]
 
